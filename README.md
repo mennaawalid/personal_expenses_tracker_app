@@ -1,6 +1,7 @@
 # best_personal_expenses_tracker
 
-A new Flutter project.
+A responsive and adaptive flutter app to track your personal expenses. Shows you a list of all the purchases you added, and includes a chart showing the last week's expenses. 
+State management used: Provider
 
 ## Getting Started
 
